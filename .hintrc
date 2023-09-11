@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "background-image: -webkit-image-set(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzE6czDvJHrq9lwj2PyDBlwS1dbweliy0YeMtiM6HeVQ&usqp=CAU&ec=48665701\")",
+          "background-image: -webkit-image-set(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTV-v_rCGFNUsDfBa6K8w9bjOAa-hVQuCSpEpYET6h6A&usqp=CAU&ec=48665701\")"
+        ]
+      }
+    ]
+  }
+}
